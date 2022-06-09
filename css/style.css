@@ -83,8 +83,7 @@ div img{
 
 header p{
     padding-top: 50px;
-    padding-left: 20px;
-    padding-right: 20px;
+    
     margin: auto;
     width: 370px;
     color: var(--cor2);
@@ -127,8 +126,7 @@ section p.center{
     color: white;
     padding-bottom: 0;
     margin: 10 auto;
-    padding-left: 20px;
-    padding-right: 20px;
+   
 }
 
 header div#principal{
